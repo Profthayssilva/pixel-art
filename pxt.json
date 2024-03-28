@@ -1,0 +1,25 @@
+{
+    "name": "Pixel Art",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "pixelArt": "github:microsoft/makecode-minecraft-pixel-art"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.7.28",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
